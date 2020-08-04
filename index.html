@@ -1,25 +1,12 @@
 ---
 layout: default
-rbar:
-  - calendar
-  - fb
-  - video
-youtube:
-  id: VRRtr_AXjhM
-  #playlist: PLKqQxo2sZ8NfKKow6zTMyVZF7jfzpIMw9 
-  title: "Video"
-  button:
-    url: "https://www.youtube.com/channel/UCID4m0gBoaG5sFmQ5l-iRBQ/videos" 
-    title: "Další videa"
 ---
 
-<div class="row">
-  <div class="medium-12 large-12 columns">
-      <a href="/volby/2020/">
-        <img style="width: 100%" src="/assets/img/banner-volby-2020.jpg" >
-      </a>
-  </div>
+{% include homepage/banner.html href="/volby-2020/" cta="Volby" title="Piráti Středočeský kraj" img="banner-default.jpg" %}
+
+<div class="container container--default lg:pb-24">
+  {% include homepage/news.html %}
+  {% include homepage/countdown.html deadline="2020-10-02 00:00:00" %}
+  {% include homepage/calendar.html %}
+  {% include homepage/social.html %}
 </div>
-
-{% include homepage/news-with-rbar.html %}
-
