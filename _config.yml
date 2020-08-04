@@ -14,6 +14,8 @@ keywords: krajské sdružení, střední čechy, středočeši, piráti, česká
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://stredocesky.pirati.cz" # the base hostname & protocol for your site
 
+mediaStorage: stredocesky
+
 administrator:
   email: jan.korbel@pirati.cz,vaclav.kubaljak@pirati.cz # mail kam pujdou chybove vystupy
 
@@ -176,7 +178,7 @@ assets:
       - "last 2 versions"
       - "IE > 9"
   sources:
-    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-7.6.2/_sass
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-7.7.0/_sass
     - assets/css
     - assets/fonts
     - assets/video
@@ -188,3 +190,4 @@ piwik:
   siteId: 21
   loadSDK: true
 
+styleguide_base_url: 'https://styleguide.pir-test.eu/latest/'
