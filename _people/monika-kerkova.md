@@ -18,6 +18,7 @@ profiles:
   twitter:
   linkedin:
 heroImg: banner-default.jpg
+partyUid: pirati
 ---
 **Monika Keřková** (* 29. srpna 1985) je od září 2019 členkou krajského sdružení Středočeský kraj České pirátské strany. Narodila se v Příbrami, ale většinu svého dětství prožila na Dobříši. Nyní žije v Ohrobci na Praze - západ, kde byla již podruhé zvolena do zastupitelstva obce a v minulém volebním období byla též členkou rady obce a finančního výboru.
 

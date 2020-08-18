@@ -20,6 +20,7 @@ profiles:
   twitter:
   linkedin:
 heroImg: banner-default.jpg
+partyUid: pirati
 ---
 
 **Ondřej Petr** působí jako PR manager krajského sdružení Středočeský kraj.

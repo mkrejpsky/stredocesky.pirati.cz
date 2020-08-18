@@ -21,6 +21,7 @@ profiles:
   twitter:
   linkedin:
 heroImg: banner-default.jpg
+partyUid: pirati
 ---
 
 **Monika Kuncová** je koordinátorkou Pirátů Středočeského kraje.

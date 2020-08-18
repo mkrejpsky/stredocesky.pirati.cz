@@ -16,6 +16,7 @@ profiles:
   twitter:
   linkedin:
 heroImg: banner-default.jpg
+partyUid: pirati
 ---
 
 **Lucie Cirkva Chocholová** (* 1978) se narodila v Kladně, kde žila většinu svého života. Vystudovala Obchodní akademii ve Slaném a při zaměstnání dále bakalářské studium na Masarykově univerzitě v Brně. Má dvě děti, se kterými žije v obci Kačice na Kladensku. Momentálně studuje poslední ročník magisterského studia oboru Management v kultuře.

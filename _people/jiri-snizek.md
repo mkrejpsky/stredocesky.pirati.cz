@@ -20,6 +20,7 @@ profiles:
   twitter:
   linkedin:
 heroImg: banner-default.jpg
+partyUid: pirati
 ---
 
 **Jiří Snížek** (* 13. července 1989) je od listopadu 2018 předsedou Krajského sdružení Středočeský kraj České pirátské strany, předtím zastával funkci čtvrtého místopředsedy. Narodil se v Kolíně. Žil v Záboří nad Labem a v Praze. Od roku 2015 žije v Kolíně. Ve volbách do zastupitelstva města Kolína v roce 2018 kandidoval na druhém místě pirátské kandidátní listiny. Byl členem Komise pro hospodaření s byty a nebytovými prostory Rady města Kolína a je členem pracovní skupiny Smart City Kolín.

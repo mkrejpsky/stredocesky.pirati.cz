@@ -18,6 +18,7 @@ profiles:
   twitter:
   linkedin:
 heroImg: banner-default.jpg
+partyUid: pirati
 ---
 
 **Daniel Netušil** (*1992) vystudoval na ČVUT obor Řízení regionálních projektů. Je neuvolněným radním, členem Finančního výboru a Kulturní komise města Benešov. V rámci funkce radního byl pověřen zabezpečením úkonů v oblasti tvorby korporátní architektury a implementace jejích výstupů do praxe a elektronizace orgánů města Benešov. Momentálně pracuje jako metodik projektového řízení na Generálním ředitelství Národního památkového ústavu.

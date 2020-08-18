@@ -28,6 +28,7 @@ office:
     name: Poslanecký klub České pirátské strany
 #    opening: "Pondělí 14:00 - 18:00, objednání návštěvy: kancelar-podebrady@pirati.cz nebo 778 111 462. Dne 18. 6. je z pracovních důvodů kancelář mimo provoz."
 heroImg: banner-default.jpg
+partyUid: pirati
 ---
 **František Kopřiva** (* 30. listopadu 1995, Mladá Boleslav) odmaturoval v roce 2015 na Gymnáziu Dr. Josefa Pekaře v Mladé Boleslavi a momentálně studuje v Praze, kde v letech 2016-2017 pracoval v Laboratořích pro vývoj a realizaci. Kromě toho příležitostně pracuje jako copywriter. Mezi jeho záliby patří rozšiřování obzorů, hudba, filmy, knížky, hry, tvůrčí psaní, cestování, věda, sport a samozřejmě politické dění světové i domácí.
 

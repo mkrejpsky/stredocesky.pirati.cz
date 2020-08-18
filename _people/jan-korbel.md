@@ -19,6 +19,7 @@ profiles:
   twitter:
   linkedin:
 heroImg: banner-default.jpg
+partyUid: pirati
 ---
 
 **Jan Korbel** (* 20. května 1979) je od listopadu 2018 druhým místopředsedou krajského sdružení Středočeský kraj České pirátské strany. Narodil se v Písku a od roku 2000 bydlí ve Středočeském kraji.
