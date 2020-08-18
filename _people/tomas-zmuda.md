@@ -19,6 +19,7 @@ profiles:
   twitter: https://twitter.com/TomasZmuda
   linkedin: https://www.linkedin.com/in/tom%C3%A1%C5%A1-zmuda-91924351/
   web: https://zmuda.cz/
+heroImg: banner-default.jpg
 ---
 
 **Tomáš Zmuda** (* 8. dubna 1988, Mariánské Lázně) pochází z Lokte u Karlových Varů. Střední školu studoval v Rokycanech (obor elektronické počítačové systémy), vysokou školu v Praze, kde v roce 2013 získal titul Ing. v oboru Mezinárodní teritoriální studia. V průběhu studia již vedl školní projekty při účasti až 30 studentů v týmu. Diplomová práce byla zaměřena na vzájemnou interoperabilitu železničních dopravců. Bohužel je stále aktuální, od roku 2013 se téměř nic nezměnilo. Nyní bydlí v obci Jinočany, kde byl zvolen zastupitelem pro období 2018-2022. V rámci výkonu zastupitele je předsedou finačního výboru obce. V letech 2017-2018 zastával v Pirátské straně funkci místopředsedy kraje. 

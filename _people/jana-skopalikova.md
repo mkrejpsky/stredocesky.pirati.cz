@@ -17,6 +17,7 @@ profiles:
   facebook: https://www.facebook.com/jana.skopalikova.50
   twitter:
   linkedin:
+heroImg: banner-default.jpg
 ---
 
 **Jana Skopalíková** (* 1993) je 3. místopředsedkyně krajského sdružení Středočeský kraj a bývalá předsedkyně místního sdružení Benešov. Také se angažuje v Krajském mediálním odboru a Krajském expertním týmu životní prostředí a zemědělství. Členkou Pirátů se stala v polovině roku 2018 a nyní kandiduje z 2. místa do krajských voleb ve Středočeském kraji.

@@ -19,6 +19,7 @@ profiles:
   facebook:
   twitter:
   linkedin:
+heroImg: banner-default.jpg
 ---
 
 **Ondřej Petr** působí jako PR manager krajského sdružení Středočeský kraj.

@@ -21,6 +21,7 @@ profiles:
   facebook: https://www.facebook.com/klara.kocmanova.75
   twitter:
   linkedin:
+heroImg: banner-default.jpg
 ---
 
 **Klára Kocmanová** (* 5. listopadu 1992) je koordinátorkou Pirátů Středočeského kraje. Pochází z Kutné Hory, kde odmaturovala na Církevním Gymnáziu. Momentálně je v Kutné Hoře místopředsedkyní místního sdružení Pirátů, v komunální politice pak členkou komise pro sociální záležitosti a komise pro životní prostředí. Dříve pracovala na Krajském úřadě Středočeského kraje jako referentka pro zdravotnickou dokumentaci, poté jako provozní v kavárně v centru Prahy. Ráda čte knihy, vaří, fotografuje, hraje na baskytaru a jezdí na koni.

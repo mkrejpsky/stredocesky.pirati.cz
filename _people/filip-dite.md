@@ -10,6 +10,7 @@ img: people/filip-dite.jpg
 mail:
   - filip.dite@pirati.cz
 profiles:
+heroImg: banner-default.jpg
 ---
 
 **Filip Dítě** (* 6. červenec 1988) pochází z Mladé Boleslavi, kde i žije.
