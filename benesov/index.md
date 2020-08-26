@@ -16,7 +16,7 @@ predsednictvo:
 mandat-do: 25.10.2020
 volba: https://forum.pirati.cz/viewtopic.php?f=969&t=44238
 ---
-{% asset 'ms/benesov/clenove-small.jpg' alt='clenove' %}
+{% asset 'https://a.pirati.cz/stredocesky/img/ms/benesov/clenove-small.jpg' alt='clenove' %}
 
 
 Místní sdružení Benešov má na starosti prosazování pirátské politiky v původním okrese Benešov, organizuje akce pro veřejnost a kromě otevřených schůzí konaných přímo v Benešově pořádá i výjezdní zasedání – např. do Votic nebo Týnce nad Sázavou.

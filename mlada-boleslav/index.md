@@ -16,7 +16,7 @@ predsednictvo:
 mandat-do: 03.02.2021
 volba: https://forum.pirati.cz/viewtopic.php?p=603893#p603893
 ---
-[{% asset 'ms/mlada-boleslav/top.png' alt='MS Mladá Boleslav' %}](https://nalodeni.pirati.cz/)
+[{% asset 'https://a.pirati.cz/stredocesky/img/ms/mlada-boleslav/top.png' alt='MS Mladá Boleslav' %}](https://nalodeni.pirati.cz/)
 
 ## Aktuality
 * **Pirátská grilovačka** – připravujeme, sleduj náš Facebook

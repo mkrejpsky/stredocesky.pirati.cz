@@ -16,7 +16,7 @@ predsednictvo:
 mandat-do: 03.12.2020
 volba: https://forum.pirati.cz/viewtopic.php?f=799&t=29429&p=592959#p592959
 ---
-{% asset 'ms/nymburk/spolecna-1000px.jpg' alt='společná fotka' %}
+{% asset 'https://a.pirati.cz/stredocesky/img/ms/nymburk/spolecna-1000px.jpg' alt='společná fotka' %}
 
 # O nás
 První místní sdružení Pirátů v Nymburském okrese bylo ustanoveno 1.11.2013, přičemž ve stávající sestavě oficiálně existuje od 3.12.2018. Od samého počátku sdružovalo členy z vícero obcí a to konkrétně ze Sadské, Poděbrad a Nymburka. 

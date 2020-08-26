@@ -27,7 +27,7 @@ organization:
   address: |
     Na Moráni 360/3
     120 00 Praha 2
-  residenceImg: pice-mapa.png
+  residenceImg: https://a.pirati.cz/stredocesky/img/pice-mapa.png
   mapLink: https://en.mapy.cz/zakladni?x=14.4153018&y=50.0734551&z=17&source=addr&id=9018965&q=Na%20Mor%C3%A1ni%203%2C%20Praha%202
   redmineLink: https://redmine.pirati.cz/projects/stredni-cechy
   dataBoxId: b2i4r6j
@@ -174,7 +174,7 @@ assets:
       - "last 2 versions"
       - "IE > 9"
   sources:
-    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-7.7.0/_sass
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-7.7.1/_sass
     - assets/css
     - assets/fonts
     - assets/video
