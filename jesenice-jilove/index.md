@@ -27,6 +27,8 @@ Místní sdružení Jesenice - Jílové působí na Praze - západ, v části OR
 
 Ustavující schůze místního sdružení byla 23.9.2019 na geografickém středu Čech na kopci Ďábel u obce Petrov za účasti zakládajících členů Jana Čáhy, Romana Morávka, Jana Korbela a dalších pirátů a příznivců nejen z území místního sdružení ([tiskovka](https://stredocesky.pirati.cz/aktuality/stredocesti-pirati-ovladli-geometricky-stred-cech.html), [zápis](https://forum.pirati.cz/viewtopic.php?p=638856#p638856)).
 
+<hr>
+
 # Aktivity MS
 
 ##### 2020
@@ -54,6 +56,8 @@ Ustavující schůze místního sdružení byla 23.9.2019 na geografickém stře
 
 Pokud chcete být o našich plánovaných akcích informováni e-mailem, napište! (viz kontakty vpravo nahoře)
 
+<hr>
+
 # Členové MS
 
 <div markdown="1" class="c-profile-badge">
@@ -78,3 +82,4 @@ Pokud chcete být o našich plánovaných akcích informováni e-mailem, napišt
 {% asset 'https://a.pirati.cz/stredocesky/img/ms/jesenice-jilove/dvorak-400px.jpg' alt='Mirek Dvořák' align='left' width='200px' style='margin: 0px 30px 10px 30px;' %} **Mirek Dvořák** (* 24. března 1972) je členem Pirátů od června 2020. Vystudoval VŠ námořní v Gdyni v Polsku a v roce 2007 získal diplom MBA v oboru General Management, City University of Seattle, při VŠFS. Pracoval na různých pozicích v mezinárodním obchodě v oblasti marketingu a obchodu. V současnosti působí jako Business Development Director pro oblast střední a východní Evropy. Narodil se v Praze, ale posledních patnáct let žije s rodinou ve Vestci. Ztotožňuje se s otevřenou transparentní společností, urychleným zaváděním moderních technologií ve společnosti a zejména ve státní správě a upřednostněním investic do vzdělávání.
 </div>
 
+<hr>
