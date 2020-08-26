@@ -141,11 +141,11 @@ defaults:   # defaults values for collection scope
   -
     scope:
       path: "_people"
+      heroImg: banner-default.jpg
     values:
       layout: "person"
       rbar:
-        - foto
-        - personContact
+        - profile
         - people
   -
     scope:
@@ -155,6 +155,8 @@ defaults:   # defaults values for collection scope
       rbar:
          - garant
          - program
+
+emptyArray: []
 
 emptyArray: []
 
@@ -180,10 +182,5 @@ assets:
     - assets/video
     - assets/img
     - _sass
-
-# piwik
-piwik:
-  siteId: 21
-  loadSDK: true
 
 styleguide_base_url: 'https://styleguide.pir-test.eu/latest/'
