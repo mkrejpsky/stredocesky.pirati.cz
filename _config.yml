@@ -141,7 +141,6 @@ defaults:   # defaults values for collection scope
   -
     scope:
       path: "_people"
-      heroImg: banner-default.jpg
     values:
       layout: "person"
       rbar:
