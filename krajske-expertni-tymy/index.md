@@ -94,6 +94,7 @@ keywords: piráti, pirátky, středočeši, středočeský kraj, KET, krajské e
 
 </div>
 </main>
+<br>
 
 <p>Všechny vedoucí týmů je možné kontaktovat e-mailem na adrese jmeno.prijmeni@pirati.cz.</p>
 </section>
