@@ -8,7 +8,7 @@ keywords: piráti, pirátky, středočeši, středočeský kraj, KET, krajské e
 <div class="container container--default pt-8 lg:py-24">
 <section>
 <h1 class="head-alt-md md:head-alt-lg max-w-5xl mb-8">Krajské expertní týmy</h1>
-
+<p>Všechny vedoucí týmů je možné kontaktovat e-mailem na adrese jmeno.prijmeni@pirati.cz.</p>
 <main>
 <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
 
@@ -93,8 +93,6 @@ keywords: piráti, pirátky, středočeši, středočeský kraj, KET, krajské e
 </article>
 
 </div>
-
-<p>Všechny vedoucí týmů je možné kontaktovat e-mailem na adrese jmeno.prijmeni@pirati.cz.</p>
 </main>
 
 </section>
