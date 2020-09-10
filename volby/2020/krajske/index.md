@@ -1,7 +1,7 @@
 ---
 layout: communal-elections
 title: Krajské volby 2020
-heroBgImg: articles/2020/kampan20/zahajenikampan.jpg
+heroBgImg: kampan20/zahajenikampan.jpg
 campaignGroupUid: volby-2020
 campaignCategoryUid: 2020-krajske
 candidateListUid: 2020-krajske
