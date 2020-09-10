@@ -75,11 +75,11 @@ layout: default
 
           <div class="candidate-card-list grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
             {% assign candidate = site.people | where: "uid", "adela.sipova" | first %}
-            {% include candidate-badge.html candidate=candidate candidatePage=candidatePage leader=false rank=candidateRank wrapperClass=classes hideSocialProfiles=page.hideCandidateSocialProfiles %}
+            {% include candidate-badge.html candidate=candidate candidatePage=candidatePage leader=false rank=1 wrapperClass=classes hideSocialProfiles=page.hideCandidateSocialProfiles %}
             {% assign candidate = site.people | where: "uid", "simona.luftova" | first %}
-            {% include candidate-badge.html candidate=candidate candidatePage=candidatePage leader=false rank=candidateRank wrapperClass=classes hideSocialProfiles=page.hideCandidateSocialProfiles %}
+            {% include candidate-badge.html candidate=candidate candidatePage=candidatePage leader=false rank=2 wrapperClass=classes hideSocialProfiles=page.hideCandidateSocialProfiles %}
             {% assign candidate = site.people | where: "uid", "cyril.koky" | first %}
-            {% include candidate-badge.html candidate=candidate candidatePage=candidatePage leader=false rank=candidateRank wrapperClass=classes hideSocialProfiles=page.hideCandidateSocialProfiles %}
+            {% include candidate-badge.html candidate=candidate candidatePage=candidatePage leader=false rank=3 wrapperClass=classes hideSocialProfiles=page.hideCandidateSocialProfiles %}
 
 
           </div>
