@@ -1,6 +1,8 @@
 ---
 uid: adela.sipova
 name: Adéla Šípová
+category:
+  - senat
 titles:
   before: Mgr.
   after: 

@@ -1,6 +1,8 @@
 ---
 uid: cyril.koky
 name: Cyril Koky
+category:
+  - senat
 titles:
   before: Mgr.
   after: MPA

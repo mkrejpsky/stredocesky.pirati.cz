@@ -68,6 +68,24 @@ layout: default
           </template>
         {% endif %}
 
+        <template v-if="isCurrentView('senat')">
+          <h1 class="head-alt-md text-center py-8 lg:pt-24 lg:pb-8">Kandidáti do senátu za Středočeský kraj</h1>
+
+          
+
+          <div class="candidate-card-list grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
+            {% assign candidate = site.people | where: "uid", "adela.sipova" | first %}
+            {% include candidate-badge.html candidate=candidate candidatePage=candidatePage leader=false rank=candidateRank wrapperClass=classes hideSocialProfiles=page.hideCandidateSocialProfiles %}
+            {% assign candidate = site.people | where: "uid", "simona.luftova" | first %}
+            {% include candidate-badge.html candidate=candidate candidatePage=candidatePage leader=false rank=candidateRank wrapperClass=classes hideSocialProfiles=page.hideCandidateSocialProfiles %}
+            {% assign candidate = site.people | where: "uid", "cyril.koky" | first %}
+            {% include candidate-badge.html candidate=candidate candidatePage=candidatePage leader=false rank=candidateRank wrapperClass=classes hideSocialProfiles=page.hideCandidateSocialProfiles %}
+
+
+          </div>
+
+        </template>
+
         <template v-if="isCurrentView('kandidati')">
           <h1 class="head-alt-md text-center py-8 lg:pt-24 lg:pb-8">{{ candidates.title }}</h1>
 

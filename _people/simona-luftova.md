@@ -1,6 +1,8 @@
 ---
 uid: simona.luftova
 name: Simona Luftová
+category:
+  - senat
 titles:
   before: Mgr.
   after: 
