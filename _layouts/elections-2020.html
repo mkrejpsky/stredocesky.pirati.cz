@@ -74,11 +74,11 @@ layout: default
           
 
           <div class="candidate-card-list grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
-            {% assign leaderCandidate = site.people | where: "uid", "adela.sipova" | first %}
+            {% assign candidatePage = site.people | where: "uid", "adela.sipova" | first %}
             {% include candidate-badge.html candidate=candidate candidatePage=candidatePage leader=false rank=1 wrapperClass="candidate-card__wrapper sm:candidate-card-list__item-wrapper md:candidate-card-list__item-wrapper--border" hideSocialProfiles=page.hideCandidateSocialProfiles %}
-            {% assign leaderCandidate = site.people | where: "uid", "simona.luftova" | first %}
+            {% assign candidatePage = site.people | where: "uid", "simona.luftova" | first %}
             {% include candidate-badge.html candidate=candidate candidatePage=candidatePage leader=false rank=2 wrapperClass="candidate-card__wrapper sm:candidate-card-list__item-wrapper md:candidate-card-list__item-wrapper--border" hideSocialProfiles=page.hideCandidateSocialProfiles %}
-            {% assign leaderCandidate = site.people | where: "uid", "cyril.koky" | first %}
+            {% assign candidatePage = site.people | where: "uid", "cyril.koky" | first %}
             {% include candidate-badge.html candidate=candidate candidatePage=candidatePage leader=false rank=3 wrapperClass="candidate-card__wrapper sm:candidate-card-list__item-wrapper md:candidate-card-list__item-wrapper--border" hideSocialProfiles=page.hideCandidateSocialProfiles %}
 
 
