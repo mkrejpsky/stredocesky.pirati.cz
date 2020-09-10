@@ -48,6 +48,6 @@ I když na jaře vyrazil Jirka na cestu sám, dnes už ho na cestě doprovází 
 
 14.–20. 9. Mladoboleslavsko
 
-{% asset 'posts/2020/jirka-tour-skupina.jpg' alt='cyklo tour - skupinová' %}
+{% asset 'https://a.pirati.cz/stredocesky.cz/img/posts/2020/jirka-tour-skupina.jpg' alt='cyklo tour - skupinová' %}
 
 
