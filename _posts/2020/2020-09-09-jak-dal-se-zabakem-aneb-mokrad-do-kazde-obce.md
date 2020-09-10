@@ -9,6 +9,7 @@ description: 'životní prostředí, kauzy, krajská politika'
 author: Petr Petřík/Jana Skopalíková
 #authorId: 
 image: posts/2020/mokrad.jpg
+important: true
 ---
 
 **Pokud jste v uplynulých měsících sledovali kauzu boje za záchranu mokřadu Žabák u Lysé nad Labem, asi také víte, že tentokrát se podařilo cenné území zachránit. Co jsme se ale z této kauzy dozvěděli o ochraně přírody v našem kraji a o jak cennou lokalitu se jednalo?**

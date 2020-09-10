@@ -9,7 +9,6 @@ description: 'senátní volby, Kolín'
 author: Mediální odbor
 #authorId: daniel.netusil
 image: posts/2020/koky.jpg
-important: true
 ---
 
 Mgr. Cyril Koky má krásný československý příběh. Narodil se v Levoči, okrese Spišská Nová Ves. Maturoval na Vojenské střední škole v Liptovském Mikuláši. Do Kolína se přistěhoval v roce 1987, u místní vojenské posádky sloužil až do roku 1997. Zde také studoval, oženil se a založil rodinu. Magisterské studium dokončil opět na Slovensku – v Bratislavě. Manželka pracuje v kolínské nemocnici jako zdravotní sestra. Má dvě děti. Syn vystudoval Právnickou fakultu na Masarykově univerzitě v Brně, dcera je studentkou druhého ročníku Ekonomicko-správní fakulty Univerzity v Pardubicích. Cyril Koky pracuje na středočeském krajském úřadě, kde se už řadu let zabývá problematikou integrace romské menšiny v našem kraji. I když není rozený Kolíňan, už 33 let je tu doma. Ve obvodu Kolín kandiduje za Pirátskou stranu do Senátu. 
