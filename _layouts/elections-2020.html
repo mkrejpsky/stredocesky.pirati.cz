@@ -30,8 +30,8 @@ layout: default
         {% if programCategories.size > 0 %}
           <div class="text-center">
             <div class="switch">
-              <a @click="showView('kandidati')" class="switch__item" :class="{'switch__item--active': isCurrentView('kandidati')}">Kandidáti kraje</a>
-              <a @click="showView('senat')" class="switch__item" :class="{'switch__item--active': isCurrentView('senat')}">Kandidáti do senátu</a>
+              <a @click="showView('kandidati')" class="switch__item" :class="{'switch__item--active': isCurrentView('kandidati')}">Krajská kandidátka</a>
+              <a @click="showView('senat')" class="switch__item" :class="{'switch__item--active': isCurrentView('senat')}">Senátní kandidátka</a>
               <a @click="showView('program')" class="switch__item" :class="{'switch__item--active': isCurrentView('program')}">Program</a>
             </div>
           </div>
