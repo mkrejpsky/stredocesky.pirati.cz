@@ -1,5 +1,5 @@
 ---
-title: Krajská kandidátka 2020
+title: Kandidáti do zastupitelstva Středočeského kraje
 uid: 2020-krajske
 # number: 13 # číslo kandidátky odkomentujte až bude známé
 leader:
