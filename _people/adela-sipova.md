@@ -18,7 +18,6 @@ profiles:
   twitter:
   linkedin:
 heroImg: banner-default.jpg
-partyUid: pirati
 published: true
 ---
 
