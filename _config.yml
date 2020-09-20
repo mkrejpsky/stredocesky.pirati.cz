@@ -17,7 +17,7 @@ url: "https://stredocesky.pirati.cz" # the base hostname & protocol for your sit
 mediaStorage: stredocesky
 
 administrator:
-  email: jan.korbel@pirati.cz,vaclav.kubaljak@pirati.cz # mail kam pujdou chybove vystupy
+  email: jan.suchanek@gmail.com, jan.korbel@pirati.cz,vaclav.kubaljak@pirati.cz # mail kam pujdou chybove vystupy
 
 organization:
   name: Piráti - Středočeský kraj
