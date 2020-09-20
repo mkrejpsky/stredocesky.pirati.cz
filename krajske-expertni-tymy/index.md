@@ -45,7 +45,7 @@ keywords: piráti, pirátky, středočeši, středočeský kraj, KET, krajské e
 </article>
 
 <article class="card card--hoveractive">
-<a href="/program/2020-krajske/zdravotnictvi/"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/resize/400x225/stredocesky/img/program2020/zdravotnictvi.jpg" alt="Zdravotnictví" /></a>	
+<a href="https://forum.pirati.cz/viewforum.php?f=1281"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/resize/400x225/stredocesky/img/program2020/zdravotnictvi.jpg" alt="Zdravotnictví" /></a>	
 <div class="card__body p-4">
 <h1 class="card-headline mb-2"><a href="https://forum.pirati.cz/viewforum.php?f=1281" target="_blank">Kultura</a></h1> 
 <p class="card-body-text">vedoucí Lucie Chocholová</p>
@@ -54,7 +54,7 @@ keywords: piráti, pirátky, středočeši, středočeský kraj, KET, krajské e
 
 
 <article class="card card--hoveractive">
-<a href="/program/2020-krajske/zdravotnictvi/"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/resize/400x225/stredocesky/img/program2020/zdravotnictvi.jpg" alt="Zdravotnictví" /></a>		
+<a href="https://forum.pirati.cz/viewforum.php?f=1283"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/resize/400x225/stredocesky/img/program2020/zdravotnictvi.jpg" alt="Zdravotnictví" /></a>		
 <div class="card__body p-4">
 <h1 class="card-headline mb-2"><a href="https://forum.pirati.cz/viewforum.php?f=1283" target="_blank">Sociální politika</a></h1> 
 <p class="card-body-text">vedoucí Klára Kocmanová</p>
@@ -63,7 +63,7 @@ keywords: piráti, pirátky, středočeši, středočeský kraj, KET, krajské e
 
 
 <article class="card card--hoveractive">
-<a href="/program/2020-krajske/zdravotnictvi/"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/resize/400x225/stredocesky/img/program2020/zdravotnictvi.jpg" alt="Zdravotnictví" /></a>		
+<a href="https://forum.pirati.cz/viewforum.php?f=1284"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/resize/400x225/stredocesky/img/program2020/zdravotnictvi.jpg" alt="Zdravotnictví" /></a>		
 <div class="card__body p-4">
 <h1 class="card-headline mb-2"><a href="https://forum.pirati.cz/viewforum.php?f=1284" target="_blank">Sport</a></h1> 
 <p class="card-body-text">vedoucí Antonín Schejbal</p>
@@ -72,7 +72,7 @@ keywords: piráti, pirátky, středočeši, středočeský kraj, KET, krajské e
 
 
 <article class="card card--hoveractive">
-<a href="/program/2020-krajske/zdravotnictvi/"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/resize/400x225/stredocesky/img/program2020/zdravotnictvi.jpg" alt="Zdravotnictví" /></a>		
+<a href="https://forum.pirati.cz/viewforum.php?f=1285"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/resize/400x225/stredocesky/img/program2020/zdravotnictvi.jpg" alt="Zdravotnictví" /></a>		
 <div class="card__body p-4">
 <h1 class="card-headline mb-2"><a href="https://forum.pirati.cz/viewforum.php?f=1285" target="_blank">Školství</a></h1> 
 <p class="card-body-text">vedoucí Václav Kubaljak</p>
@@ -80,7 +80,7 @@ keywords: piráti, pirátky, středočeši, středočeský kraj, KET, krajské e
 </article>
 
 <article class="card card--hoveractive">
-<a href="/program/2020-krajske/zdravotnictvi/"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/resize/400x225/stredocesky/img/program2020/zdravotnictvi.jpg" alt="Zdravotnictví" /></a>		
+<a href="https://forum.pirati.cz/viewforum.php?f=1286"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/resize/400x225/stredocesky/img/program2020/zdravotnictvi.jpg" alt="Zdravotnictví" /></a>		
 <div class="card__body p-4">
 <h1 class="card-headline mb-2"><a href="https://forum.pirati.cz/viewforum.php?f=1286" target="_blank">Územní rozvoj a plánování</a></h1> 
 <p class="card-body-text">vedoucí Jan Černý</p>
@@ -88,7 +88,7 @@ keywords: piráti, pirátky, středočeši, středočeský kraj, KET, krajské e
 </article>
 
 <article class="card card--hoveractive">
-<a href="/program/2020-krajske/zdravotnictvi/"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/resize/400x225/stredocesky/img/program2020/zdravotnictvi.jpg" alt="Zdravotnictví" /></a>		
+<a href="https://forum.pirati.cz/viewforum.php?f=1287"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/resize/400x225/stredocesky/img/program2020/zdravotnictvi.jpg" alt="Zdravotnictví" /></a>		
 <div class="card__body p-4">
 <h1 class="card-headline mb-2"><a href="https://forum.pirati.cz/viewforum.php?f=1287" target="_blank">Zdravotnictví</a></h1> 
 <p class="card-body-text">vedoucí Vojtěch Lukavec</p>
@@ -96,7 +96,7 @@ keywords: piráti, pirátky, středočeši, středočeský kraj, KET, krajské e
 </article>
 
 <article class="card card--hoveractive">
-<a href="/program/2020-krajske/zdravotnictvi/"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/resize/400x225/stredocesky/img/program2020/zdravotnictvi.jpg" alt="Zdravotnictví" /></a>		
+<a href="https://forum.pirati.cz/viewforum.php?f=1288"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/resize/400x225/stredocesky/img/program2020/zdravotnictvi.jpg" alt="Zdravotnictví" /></a>		
 <div class="card__body p-4">
 <h1 class="card-headline mb-2"><a href="https://forum.pirati.cz/viewforum.php?f=1288" target="_blank">Životní prostředí a zemědělství</a></h1> 
 <p class="card-body-text">vedoucí Jana Skopalíková a Dominika Michailidu</p>
