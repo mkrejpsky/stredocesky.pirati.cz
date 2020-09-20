@@ -21,6 +21,7 @@ heroImg: banner-default.jpg
 published: true
 ---
 
+
 **Adéla Šípová** (* 1980) se narodila v roce 1980 ve Vlašimi. Dětství prožila v Praze, odkud pochází část její rodiny. Rok 1992 strávila u své tety a strýce v Sydney, kam chodila do veřejné školy. Byla to pro ní obrovská životní zkušenost, která ji naučila být vnímavá k odlišnostem různých jazyků, národů a kultur a umět je respektovat, dokonce se jimi nechat obohatit. Ve dvanácti letech se s rodiči a bratrem přestěhovali na statek v malé obci Dolany na Kladensku. Na Kladně vystudovala gymnázium. Po maturitě se vdala a přestěhovala za svým manželem o pár kilometrů dál, do Doks, kde s pěti dětmi bydlí dosud.
 
 Po narození první dcery zahájila studium Právnické fakulty Univerzity Karlovy v Praze. Po studiích vstoupila do advokacie, nejdříve jako advokátní koncipientka u JUDr. Josefa Holuba, kladenského advokáta, a po advokátních zkouškách jako trvale spolupracující advokátka ve velkých advokátních kancelářích v Praze. Nyní je opět samostatnou advokátkou. Má zkušenosti se všemi právními oblastmi, včetně obhajoby v trestním řízení. Nejvíce ji vždy zajímaly kauzy běžných občanů. Svět velkých korporací ji naopak k srdci nikdy nepřirostl, protože je pro ni příliš odosobněný.
