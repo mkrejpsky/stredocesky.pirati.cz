@@ -13,6 +13,7 @@ keywords: piráti, pirátky, středočeši, středočeský kraj, KET, krajské e
 <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
 
 <article class="card card--hoveractive">
+<a href="https://forum.pirati.cz/viewforum.php?f=1276"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/resize/400x225/stredocesky/img/program2020/prumysl-obchod-a-cestovni-ruch.jpg" alt="Cestovní ruch" /></a>
 <div class="card__body p-4">
 <h1 class="card-headline mb-2"><a href="https://forum.pirati.cz/viewforum.php?f=1276" target="_blank">Cestovní ruch</a></h1> 
 <p class="card-body-text">vedoucí Jan Trnka</p>
@@ -20,6 +21,7 @@ keywords: piráti, pirátky, středočeši, středočeský kraj, KET, krajské e
 </article>
 
 <article class="card card--hoveractive">
+<a href="https://forum.pirati.cz/viewforum.php?f=1277"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/resize/400x225/stredocesky/img/program2020/doprava.jpg" alt="Doprava a infrastruktura" /></a>
 <div class="card__body p-4">
 <h1 class="card-headline mb-2"><a href="https://forum.pirati.cz/viewforum.php?f=1277" target="_blank">Doprava a infrastruktura</a></h1> 
 <p class="card-body-text">vedoucí Jan Lička</p>
@@ -27,6 +29,7 @@ keywords: piráti, pirátky, středočeši, středočeský kraj, KET, krajské e
 </article>
 
 <article class="card card--hoveractive">
+<a href="https://forum.pirati.cz/viewforum.php?f=1278"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/resize/400x225/stredocesky/img/program2020/finance.jpg" alt="Finance" /></a>
 <div class="card__body p-4">
 <h1 class="card-headline mb-2"><a href="https://forum.pirati.cz/viewforum.php?f=1278" target="_blank">Finance</a></h1> 
 <p class="card-body-text">vedoucí Milan Krch</p>
@@ -34,6 +37,7 @@ keywords: piráti, pirátky, středočeši, středočeský kraj, KET, krajské e
 </article>
 
 <article class="card card--hoveractive">
+<a href="https://forum.pirati.cz/viewforum.php?f=1279"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/resize/400x225/stredocesky/img/program2020/zdravotnictvi.jpg" alt="IT a smart city" /></a>
 <div class="card__body p-4">
 <h1 class="card-headline mb-2"><a href="https://forum.pirati.cz/viewforum.php?f=1279" target="_blank">IT a smart city</a></h1> 
 <p class="card-body-text">vedoucí Milan Krch</p>
@@ -41,6 +45,7 @@ keywords: piráti, pirátky, středočeši, středočeský kraj, KET, krajské e
 </article>
 
 <article class="card card--hoveractive">
+<a href="/program/2020-krajske/zdravotnictvi/"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/resize/400x225/stredocesky/img/program2020/zdravotnictvi.jpg" alt="Zdravotnictví" /></a>	
 <div class="card__body p-4">
 <h1 class="card-headline mb-2"><a href="https://forum.pirati.cz/viewforum.php?f=1281" target="_blank">Kultura</a></h1> 
 <p class="card-body-text">vedoucí Lucie Chocholová</p>
@@ -49,6 +54,7 @@ keywords: piráti, pirátky, středočeši, středočeský kraj, KET, krajské e
 
 
 <article class="card card--hoveractive">
+<a href="/program/2020-krajske/zdravotnictvi/"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/resize/400x225/stredocesky/img/program2020/zdravotnictvi.jpg" alt="Zdravotnictví" /></a>		
 <div class="card__body p-4">
 <h1 class="card-headline mb-2"><a href="https://forum.pirati.cz/viewforum.php?f=1283" target="_blank">Sociální politika</a></h1> 
 <p class="card-body-text">vedoucí Klára Kocmanová</p>
@@ -57,6 +63,7 @@ keywords: piráti, pirátky, středočeši, středočeský kraj, KET, krajské e
 
 
 <article class="card card--hoveractive">
+<a href="/program/2020-krajske/zdravotnictvi/"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/resize/400x225/stredocesky/img/program2020/zdravotnictvi.jpg" alt="Zdravotnictví" /></a>		
 <div class="card__body p-4">
 <h1 class="card-headline mb-2"><a href="https://forum.pirati.cz/viewforum.php?f=1284" target="_blank">Sport</a></h1> 
 <p class="card-body-text">vedoucí Antonín Schejbal</p>
@@ -65,6 +72,7 @@ keywords: piráti, pirátky, středočeši, středočeský kraj, KET, krajské e
 
 
 <article class="card card--hoveractive">
+<a href="/program/2020-krajske/zdravotnictvi/"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/resize/400x225/stredocesky/img/program2020/zdravotnictvi.jpg" alt="Zdravotnictví" /></a>		
 <div class="card__body p-4">
 <h1 class="card-headline mb-2"><a href="https://forum.pirati.cz/viewforum.php?f=1285" target="_blank">Školství</a></h1> 
 <p class="card-body-text">vedoucí Václav Kubaljak</p>
@@ -72,6 +80,7 @@ keywords: piráti, pirátky, středočeši, středočeský kraj, KET, krajské e
 </article>
 
 <article class="card card--hoveractive">
+<a href="/program/2020-krajske/zdravotnictvi/"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/resize/400x225/stredocesky/img/program2020/zdravotnictvi.jpg" alt="Zdravotnictví" /></a>		
 <div class="card__body p-4">
 <h1 class="card-headline mb-2"><a href="https://forum.pirati.cz/viewforum.php?f=1286" target="_blank">Územní rozvoj a plánování</a></h1> 
 <p class="card-body-text">vedoucí Jan Černý</p>
@@ -79,6 +88,7 @@ keywords: piráti, pirátky, středočeši, středočeský kraj, KET, krajské e
 </article>
 
 <article class="card card--hoveractive">
+<a href="/program/2020-krajske/zdravotnictvi/"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/resize/400x225/stredocesky/img/program2020/zdravotnictvi.jpg" alt="Zdravotnictví" /></a>		
 <div class="card__body p-4">
 <h1 class="card-headline mb-2"><a href="https://forum.pirati.cz/viewforum.php?f=1287" target="_blank">Zdravotnictví</a></h1> 
 <p class="card-body-text">vedoucí Vojtěch Lukavec</p>
@@ -86,6 +96,7 @@ keywords: piráti, pirátky, středočeši, středočeský kraj, KET, krajské e
 </article>
 
 <article class="card card--hoveractive">
+<a href="/program/2020-krajske/zdravotnictvi/"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/resize/400x225/stredocesky/img/program2020/zdravotnictvi.jpg" alt="Zdravotnictví" /></a>		
 <div class="card__body p-4">
 <h1 class="card-headline mb-2"><a href="https://forum.pirati.cz/viewforum.php?f=1288" target="_blank">Životní prostředí a zemědělství</a></h1> 
 <p class="card-body-text">vedoucí Jana Skopalíková a Dominika Michailidu</p>
