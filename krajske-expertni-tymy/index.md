@@ -63,7 +63,7 @@ keywords: piráti, pirátky, středočeši, středočeský kraj, KET, krajské e
 
 
 <article class="card card--hoveractive">
-<a href="https://forum.pirati.cz/viewforum.php?f=1284"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/resize/400x225/stredocesky/img/program2020/zdravotnictvi.jpg" alt="Zdravotnictví" /></a>		
+<a href="https://forum.pirati.cz/viewforum.php?f=1284"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/resize/400x225/stredocesky/img/program2020/finance.jpg" alt="Sport" /></a>		
 <div class="card__body p-4">
 <h1 class="card-headline mb-2"><a href="https://forum.pirati.cz/viewforum.php?f=1284" target="_blank">Sport</a></h1> 
 <p class="card-body-text">vedoucí Antonín Schejbal</p>
@@ -96,7 +96,7 @@ keywords: piráti, pirátky, středočeši, středočeský kraj, KET, krajské e
 </article>
 
 <article class="card card--hoveractive">
-<a href="https://forum.pirati.cz/viewforum.php?f=1288"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/resize/400x225/stredocesky/img/program2020/zdravotnictvi.jpg" alt="Zdravotnictví" /></a>		
+<a href="https://forum.pirati.cz/viewforum.php?f=1288"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/resize/400x225/stredocesky/img/program2020/zivotni-prostredi.jpg" alt="Životní prostředí a zemědělství" /></a>		
 <div class="card__body p-4">
 <h1 class="card-headline mb-2"><a href="https://forum.pirati.cz/viewforum.php?f=1288" target="_blank">Životní prostředí a zemědělství</a></h1> 
 <p class="card-body-text">vedoucí Jana Skopalíková a Dominika Michailidu</p>
