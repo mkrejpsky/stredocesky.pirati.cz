@@ -1,5 +1,5 @@
 ---
-layout: ms
+layout: contacts
 title: Místní sdružení Příbram
 description: Místní sdružení Příbram
 keywords: piráti, místní sdružení, Příbram
