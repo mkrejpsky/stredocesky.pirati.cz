@@ -7,7 +7,7 @@ tags:
 layout: post
 title: Kaštani na mastné tyči - Strasti hromadného cestujícího
 author: Jan Lička
-authorId: jan.licka    # uid nekoho z _people (nepoviné)
+authorId: jan.licka
 image: posts/2018/kastani-panelak.jpg
 ---
 Článek by se také mohl jmenovat „Proč nejezdím autobusem, když bydlím na venkově“. Veřejnou dopravu zajišťuje ve středních Čechách přes 700 autobusových linek a přes 1700 vlakových spojů na 50 železničních tratích v centralizovaném hvězdicovém uspořádání se srdcem v Praze. Uspořádání, které napomáhá vzniku periferií, soustředí veškerou tvořivou energii s její přidanou hodnotou do jednoho bodu – a na okraje vyvrhuje masy lidí, kteří ztratili tempo a možnost splácet extrémně vysoké náklady v centru. Například v Paříži toto uspořádání napomohlo k proměně sociálního bydlení „HLM<sup>2</sup>“ (v podobě nám známých paneláků) v ghetta imigrantů plná beznaděje a kriminality, s jejichž následky se budeme vypořádávat následující desetiletí.
