@@ -14,7 +14,10 @@ image: posts/2018/kastani-panelak.jpg
 
 Jaký je praktický důsledek výše popsané situace? Pokud jste si někdy položili otázku, proč je z Benešova do Hradce Králové nebo z Mělníka do Berouna rychlejší a jednodušší jet přes Prahu, jste ve stejné situaci jako statisíce řidičů, kteří každé pondělí končí v zácpě na nedokončených okruzích. Jak je vidět z grafu níže, pro Středočeský kraj byla doprava naposledy prioritou v krizových letech 2007 – 2009, kdy lidé vyvíjeli tlak na zastupitele kvůli hledání pracovních příležitostí. Od té doby si přestali zoufat – a koupili si raději auto.
 
+
 {% asset 'https://a.pirati.cz/resize/500x500/stredocesky/img/posts/2018/kastani-graf.jpg' alt='Graf' %}
+
+
 
 Samosprávy všech krajů sice radostně vítají investory, kterým stát tak rád odpouští daně, zato v podpoře jejich zaměstnanců – vlastních občanů – je výrazně lenivější. Pokud velcí hráči jako Amazon, Komerční Park Čestlice, Škoda Auto Mladá Boleslav nebo nyní Daimler u Kralup nad Vltavou touží po kvalitních zaměstnancích, jsou nuceni „luxovat“ široké okolí a organizovat vlastní svoz. Zpětně tak vytvářejí podmínky pro vznik nocleháren, ve které se proměňují města jako Kladno nebo Benešov. A úspěšní zaměstnanci mohou přesídlit do satelitního městečka s celoživotním břemenem hypotéky ... přijde vám to jako udržitelný scénář pro plánování infrastruktury?
 
