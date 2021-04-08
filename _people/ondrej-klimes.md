@@ -20,8 +20,6 @@ profiles:
   facebook:
   twitter:
   linkedin:
-heroImg: banner-default.jpg
-published: true
 ---
 
 **Ondřej Klimeš**  (*1971) vyrostl v Mnichovicích u Prahy (okres Praha – východ), nyní žije ve Všenorech (okres Praha – západ).

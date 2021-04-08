@@ -3,7 +3,6 @@ title: Cestovní ruch a sport
 uid: 2020-krajske-10
 campaignCategoryUid: 2020-krajske
 campaignGroupUid: 2020-krajske
-img: program2020/prumysl-obchod-a-cestovni-ruch.jpg
 approved:
 garant:
 perex: >

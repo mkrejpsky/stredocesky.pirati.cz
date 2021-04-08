@@ -7,7 +7,7 @@ tags:
 layout: post
 title: V centru Staré Boleslavi zaparkovala pirátská tramvaj
 author: Jakub Dušánek
-#authorId: jan.licka
+#authorId: jan.licka    # uid nekoho z _people (nepoviné)
 image: posts/2018/boleslav-tramvaj.jpg
 ---
 
