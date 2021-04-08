@@ -187,4 +187,3 @@ assets:
 piwik:
   siteId: 21
   loadSDK: true
-
