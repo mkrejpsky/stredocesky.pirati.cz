@@ -40,7 +40,7 @@ keywords: piráti, pirátky, středočeši, středočeský kraj, KET, krajské e
 <a href="https://forum.pirati.cz/viewforum.php?f=1279"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/resize/400x225/stredocesky/img/program2020/zdravotnictvi.jpg" alt="IT a smart city" /></a>
 <div class="card__body p-4">
 <h1 class="card-headline mb-2"><a href="https://forum.pirati.cz/viewforum.php?f=1279" target="_blank">IT a smart city</a></h1> 
-<p class="card-body-text">vedoucí Milan Krch</p>
+<p class="card-body-text">vedoucí Tomáš Zmuda</p>
 </div>
 </article>
 
