@@ -13,7 +13,7 @@ image: posts/2020/rada-stc.jpg
 
 Je nepsaným pravidlem, že první účty skládají nové vlády po 100 dnech jejich úřadování, ne jinak tomu je u těch krajských. Proto byla dnes svolána tisková konference, kde jednotliví členové Rady Středočeského kraje seznámili veřejnost s dosavadními výsledky své práce. Při této příležitosti vám přinášíme ohlédnutí za tímto obdobím nejen našich radních, ale i  dalších pirátských zastupitelů.
 
-{% asset 'people/jiri-snizek.jpg' alt='Jiří Snížek'  align='left' width='200px' style='margin: 0px 30px 10px 30px;' %}
+{% asset 'https://a.pirati.cz/assets/stredocesky/people/jiri-snizek.jpg' alt='Jiří Snížek'  align='left' width='200px' style='margin: 0px 30px 10px 30px;' %}
 **Jiří Snížek**, náměstek hejtmanky pro oblast regionálního rozvoje a územního plánování
 
 Kraj zpracovává zásady územního rozvoje (ZUR), které jsou nadřazené územním plánům obcí. Již v prosinci minulého roku se povedlo schválit vypracování 9. aktualizace ZUR, jejímž obsahem bude převedení rezervy pro vysokorychlostní železniční trať (VRT) ve směru na Brno na koridor VRT. To je další posun k realizaci moderní udržitelné dopravy, která je šetrná k životnímu prostředí.
