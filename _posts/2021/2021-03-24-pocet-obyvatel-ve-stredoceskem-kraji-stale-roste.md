@@ -17,7 +17,7 @@ Počet obyvatel rostl ve všech okresech ve středních Čechách, nejvíce trad
 > „Jde o dlouhodobý trend, který ukazuje, že střední Čechy jsou pro lidi dobrým místem pro život. Což je samozřejmě pozitivní, ale pro nás coby zástupce Středočeského 
 kraje to také znamená, že je potřeba vést debaty o tom, jak s dlouhodobým nárůstem počtu obyvatel pracovat do budoucna, jak uchopit územní plánování a jak pomoci starostům, aby se jednotlivé obce s tímto trendem vyrovnaly,“ uvedl Jiří Snížek.
 
-{% asset 'posts/2021/2021-03-24-lideScK1.png' alt='Graf č. 1 – Růst počtu obyvatel mezi lety 2002 - 2019' %}
+{% asset 'https://a.pirati.cz/assets/stredocesky/img/posts/2021/2021-03-24-lideScK1.png' alt='Graf č. 1 – Růst počtu obyvatel mezi lety 2002 - 2019' %}
 
 Zatímco mnoho jiných krajů se vylidňuje, ten Středočeský roste v průměru o 15 000 lidí ročně. Nejvíce se zahušťují lokality v těsném sousedství Prahy, kde nachází práci mnoho nově přistěhovaných lidí. „Je to logické, mnoho obyvatel České republiky jde do Prahy studovat, najdou si tam práci, vazby, a pak hledají bydlení. Vzhledem k cenám v Praze je pro většinu z nich finančně dostupnější pořídit si bydlení v těsném okolí metropole, a tak jdou bydlet k nám do středních Čech,“ vysvětluje radní s tím, že z dlouhodobého hlediska může být bydlení v Praze levnější, pokud se započítají náklady na dopravu a čas.
 
