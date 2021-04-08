@@ -1,14 +1,17 @@
 ---
 uid: lucie.chocholova
-name: Lucie Chocholová
+name: Lucie Cirkva Chocholová
 titles:
   before: Mgr.
   after: 
-description: členka
+description: uvolněná krajská zastupitelka, předsedkyně Výboru pro památkovou péči, kulturu a cestovní ruch
+category:
+  - kraj
+ordKraj: 7
 img: people/lucie-chocholova.jpg
 mail: lucie.cirkva.chocholova@pirati.cz
 mob:
-#  - 
+  - +420 776 007 300
 profiles:
   web:
   github:
@@ -16,7 +19,7 @@ profiles:
   twitter:
   linkedin:
 heroImg: banner-default.jpg
-partyUid: pirati
+published: true
 ---
 
 **Lucie Cirkva Chocholová** (* 1978) se narodila v Kladně, kde žila většinu svého života. Vystudovala Obchodní akademii ve Slaném a při zaměstnání dále bakalářské studium na Masarykově univerzitě v Brně. Má dvě děti, se kterými žije v obci Kačice na Kladensku. Momentálně studuje poslední ročník magisterského studia oboru Management v kultuře.

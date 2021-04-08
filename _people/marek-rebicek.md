@@ -6,6 +6,7 @@ titles:
   after:
 category:
   - zastupitel
+ordZastupitel: 8
 description: zastupitel - Brandýs n.L. - St. Boleslav
 img: people/marek-rebicek.jpg
 mail:
@@ -16,7 +17,7 @@ profiles:
   twitter:
   linkedin:
 heroImg: banner-default.jpg
-partyUid: pirati
+published: true
 ---
 
 **Marek Řebíček** (* 30. června 1975) je městským zastupitelem za Piráty v Brandýse nad Labem - Staré Boleslavi. Pochází z Prahy a od roku 2008 žije v Brandýse. Od února do října 2019 byl 4. a později 3. místopředsedou krajského sdružení Středočeský kraj.

@@ -5,20 +5,21 @@ titles:
   before: 
   after:
 category:
-  - clen
-description: člen
+  - kraj
+description: krajský zastupitel, místopředseda Výboru pro dopravu
+ordKraj: 10
 img: people/jan-licka.jpg
 mail:
   - jan.licka@pirati.cz
-#mob:
-#  - +420 770 113 649
+mob:
+  - +420 727 839 754
 profiles:
   github:
   facebook:
   twitter:
   linkedin:
 heroImg: banner-default.jpg
-partyUid: pirati
+published: true
 ---
 
 **Jan Lička** (* 24. červenec 1981) se v Pirátské straně podílí na sekci Dopravy, se specializací na automobilovou dopravu a nové technologie. Pochází z Frýdku, většinu života prožil v Kralupech nad Vltavou a od roku 2015 hospodaří na statku u Benešova.

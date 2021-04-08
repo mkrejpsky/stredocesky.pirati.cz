@@ -6,6 +6,7 @@ titles:
   after:
 category:
   - zastupitel
+ordZastupitel: 7
 description: předseda místního sdružení a zastupitel - Brandýs n.L. - St. Boleslav
 img: people/patrick-zandl.jpg
 mail:
@@ -17,7 +18,7 @@ profiles:
   linkedin:
   web: http://www.zandl.cz/
 heroImg: banner-default.jpg
-partyUid: pirati
+published: true
 ---
 
 **Patrick Zandl** (* 26. srpna 1974) je předsedou místní organizace Pirátů v Brandýse - Staré Boleslavi a zastupitel města. Narodil se v Mnichově, žil v Pardubicích, později v Praze a nyní v Brandýse nad Labem. Členem strany je od jara 2018, dlouhou dobu ale patřil mezi podporovatele a konzultanty v elektronizaci státní správy. Vystudoval gymnázium v Přelouči, poté studoval VŠE a IZV/FHS UK, studia nedokončil. Od roku 1995 pracuje s internetem, v roce 1996 zakládal jeden z prvních zpravodajských serverů Mobil server, který později prodal společnosti MAFRA, v níž následující léta vedl část internetové divize. V roce 2005 spoluzakládal internetovou televizi Stream.cz, čtyři roky působil jako šéfredaktor Lupa.cz a podnikal v energetice. Dnes je vedoucím vývoje v Prusa Research, přední světové společnosti vyrábějící 3D tiskárny.

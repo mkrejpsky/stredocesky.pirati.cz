@@ -18,7 +18,7 @@ profiles:
   twitter:
   linkedin:
 heroImg: banner-default.jpg
-partyUid: pirati
+published: true
 ---
 
 **Daniela Weissová** (* 1. srpen 1961) se narodila v Jablonci nad Nisou, žije a pracuje v Turnově. Původní profesí pedagožka, poté knihovnice a později první mluvčí svobodného Městského úřadu v Turnově. Nějaký čas podnikala, v současnosti působí jako dramaturg KC Turnov, Zdravotní klaun a aktivní herečka alternativního divadla Čmukaři, členka poradního orgánu MKČR – odborné rady pro loutkářství ARTAMA, lektorka, porotkyně.

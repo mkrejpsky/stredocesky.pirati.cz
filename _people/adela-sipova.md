@@ -1,12 +1,12 @@
 ---
 uid: adela.sipova
 name: Adéla Šípová
-category:
-  - senat
 titles:
   before: Mgr.
   after: 
-description: kandidátka do Senátu
+category:
+  - senatori
+description: senátorka
 img: people/adela-sipova.jpg
 mail: adela.sipova@pirati.cz
 mob:
@@ -14,13 +14,12 @@ mob:
 profiles:
   web: https://www.adelasipova.cz/
   github:
-  facebook: 
+  facebook: https://www.facebook.com/adelasipovasenat
   twitter:
   linkedin:
 heroImg: banner-default.jpg
 published: true
 ---
-
 
 **Adéla Šípová** (* 1980) se narodila v roce 1980 ve Vlašimi. Dětství prožila v Praze, odkud pochází část její rodiny. Rok 1992 strávila u své tety a strýce v Sydney, kam chodila do veřejné školy. Byla to pro ní obrovská životní zkušenost, která ji naučila být vnímavá k odlišnostem různých jazyků, národů a kultur a umět je respektovat, dokonce se jimi nechat obohatit. Ve dvanácti letech se s rodiči a bratrem přestěhovali na statek v malé obci Dolany na Kladensku. Na Kladně vystudovala gymnázium. Po maturitě se vdala a přestěhovala za svým manželem o pár kilometrů dál, do Doks, kde s pěti dětmi bydlí dosud.
 
@@ -33,4 +32,3 @@ Založila několik neziskových organizací a iniciovala poměrně dost občansk
 V poslední době se aktivně zapojuje do diskuse ohledně sociálních témat, problematiky životního prostředí a transparentního hospodaření státu. Preferuje podporu běžných občanů před investičními pobídkami zahraničním subjektům, předběžnou opatrnost při rozhodování o zásazích do krajiny před ukvapenými megalomanskými projekty např. v energetice, maximální otevřenost úřadů při hospodaření s prostředky od daňových poplatníků před snahou zvýhodňovat vybrané společnosti při zadávání veřejných zakázek. Ve vyšší participaci občanů na informovanosti a tím pádem i kontrole úředníků vidí správný směr, kterým bychom se měli ubírat.
 
 Svůj volný čas tráví se svou rodinou a přáteli, nejlépe na kole a v přírodě. Je vášnivá cyklistka, protože kolo je pro ni součástí jejího životního stylu. A ráda poznává vše nové a inspirující.
-

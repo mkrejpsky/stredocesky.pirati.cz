@@ -6,6 +6,7 @@ titles:
   after:
 category:
   - zastupitel
+ordZastupitel: 6
 description: zastupitel - Černošice
 img: people/marek-jericha.jpg
 mail:
@@ -16,6 +17,7 @@ profiles:
   twitter:
   linkedin:
 heroImg: banner-default.jpg
+published: true
 ---
 
 **Marek Jeřicha** (*2. prosince 1990) vystudoval Ekonomické lyceum a poté Filosofickou fakultu Univerzity Jana Evangelisty Purkyně. Pracoval na Ministerstvu vnitra ČR jako analytik státní správy. V současnosti je učitelem na ZŠ Černošice (AJ, Z, OV).

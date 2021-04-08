@@ -6,7 +6,8 @@ titles:
   after:
 category:
   - zastupitel
-description: zastupitel - Úvaly, zvolen za PRO Úvaly
+ordZastupitel: 5
+description: zastupitel - Úvaly, zvolen za PRO Úvaly, místopředseda Finančního výboru SčK
 img: people/jan-cerny.jpg
 mail:
   - jan.cerny@pirati.cz
@@ -18,7 +19,7 @@ profiles:
   twitter:
   linkedin:
 heroImg: banner-default.jpg
-partyUid: pirati
+published: true
 ---
 **Jan Černý** (* 24. září 1982) je zastupitelem za spolek PRO Úvaly v Úvalech. Od konce roku 2019 je také členem Pirátů. Je určeným zastupitelem pro územní plán. V politice prosazuje transparentnost a především participaci občanů na projektech a strategiích města. Je pro něj důležitý sociální rozměr politiky - řešení chudoby, exekucí a posílení školství, což se snaží prosazovat i na obecní úrovni.
 

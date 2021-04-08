@@ -6,20 +6,22 @@ titles:
   after:
 category:
   - zastupitel
-description: zastupitel - Příbram
-ordZastupitel: 1
+  - kraj
+ordKraj: 9
+ordZastupitel: 11
+description: krajský zastupitel, zastupitel - Příbram
 img: people/antonin-schejbal.jpg
 mail:
   - antonin.schejbal@pirati.cz
 mob:
-#  - +420 
+  - +420 777 703 766
 profiles:
   github:
   facebook:
   twitter:
   linkedin:
 heroImg: banner-default.jpg
-partyUid: pirati
+published: true
 ---
 
 **Antonín Schejbal** (* 28. června 1996) vystudoval osmileté gymnázium v Příbrami. Během studia na střední škole studoval 3 měsíce na švýcarském gymnáziu Kanti Baden. V současné době studuje třetí ročník managementu sportu na UK FTVS.

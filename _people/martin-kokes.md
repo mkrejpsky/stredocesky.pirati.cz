@@ -18,6 +18,7 @@ profiles:
   twitter:
   linkedin: https://www.linkedin.com/in/martinkokescz/
 heroImg: banner-default.jpg
+published: true
 ---
 
 **Bc. Martin Kokeš** (* 1. ledna 1988) v roce 2018 kandidoval v komunálních volbách v Kolíně za Pirátskou stranu. V Kolíně žije a i se zde narodil.

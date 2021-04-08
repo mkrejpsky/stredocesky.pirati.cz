@@ -30,7 +30,7 @@ office:
     name: Poslanecký klub České pirátské strany
 #    opening: "Pondělí 14:00 - 18:00, objednání návštěvy: kancelar-podebrady@pirati.cz nebo 778 111 462. Dne 18. 6. je z pracovních důvodů kancelář mimo provoz."
 heroImg: banner-default.jpg
-partyUid: pirati
+published: true
 ---
 V profesním životě prošla několika zaměstnáními, nejcennější zkušenosti z počátku kariery má z pětiletého období působení ve funkci samostatného provozního technika v DP HMP METRO. Tam se musela naučit, jak spoustu technických záležitostí, tak pracovat s podřízenými a vést kolektiv. Po přestěhování z Prahy a po mateřské dovolené byla nucena úplně změnit obor. Vybrala si vychovatelství a doplnila si vzdělání – DPS na UK. Pracovala 13 let jako vychovatelka v dětském domově. Později pak v jiném zařízení, na stejné pozici až do října 2017.
 

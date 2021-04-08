@@ -18,7 +18,7 @@ profiles:
   twitter:
   linkedin:
 heroImg: banner-default.jpg
-partyUid: pirati
+published: true
 ---
 
 **Jiří Chládek** (* 23.dubna 1999) je druhým místopředsedou Místního sdružení Kolín v České pirátské straně. Narodil se v Opočně (okres Rychnov nad Kněžnou) ale celý jeho život žije v Kolíně. V letošních volbách do zastupitelstva města Kolína kandiduje na čtvrtém místě pirátské kandidátní listiny. Chodil na 3. ZŠ Kolín, dále pak na Gymnázium Kolín, kde i odmaturoval v roce 2018. V září nastupuje do prvního ročníku právnické fakulty Univerzity Olomouc. Mezi koníčky patří příroda, četba, muzika a moderní technologie. Ze sportu návštěva fitness centra, plavání, popřípadě další kolektivní sporty.

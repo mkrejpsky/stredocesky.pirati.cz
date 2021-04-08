@@ -6,8 +6,8 @@ titles:
   after: 
 category:
   - pks
-description: 4. místopředseda krajského sdružení
-ordPKS: 5
+description: předseda krajského sdružení
+ordPKS: 1
 img: people/josef-bouse.jpg
 mail: josef.bouse@pirati.cz
 mob:
@@ -19,7 +19,7 @@ profiles:
   twitter:
   linkedin:
 heroImg: banner-default.jpg
-partyUid: pirati
+published: true
 ---
 
 **Josef Bouše** (*18. ledna 1998, Příbram) studoval v oboru informačních technologií. Na škole se zaměřoval na IoT, programování a sítě. Mimo běžné studium se také účastnil nebo pomáhal při organizaci místních i mezinárodních akcí jako byl ERASMUS+ nebo EDISON. Aktuálně pracuje jako IT specialista ve větší potravinářské firmě. Ve volném čase se věnuje informačním technologiím, ale rád si zahraje karetní hry jako jsou Magicky a jim podobné nebo dračí doupě. Většinu volného času však věnuje rodině a politice.
